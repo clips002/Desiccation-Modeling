@@ -1,0 +1,45 @@
+Species	Number	URL	Protein
+Methylobacterium extorquens AM1	GCA_000021845.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/021/845/GCF_000021845.1_ASM2184v1	GCF_000021845.1_ASM2184v1_protein.faa
+Synechococcus elongatus PCC 7942	GCA_000012525.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/012/525/GCF_000012525.1_ASM1252v1	GCF_000012525.1_ASM1252v1_protein.faa
+Mycobacterium smegmatis (Anthony Baughn lab)	GCA_000767605.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/767/605/GCF_000767605.1_ASM76760v1	GCF_000767605.1_ASM76760v1_protein.faa
+Polaromonas naphthalenivorans DSMZ 15660	GCA_000015505.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/015/505/GCF_000015505.1_ASM1550v1	GCF_000015505.1_ASM1550v1_protein.faa
+Stenotrophomonas maltophilia R551-3	GCA_000020665.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/020/665/GCF_000020665.1_ASM2066v1	GCF_000020665.1_ASM2066v1_protein.faa
+Oleiphilus messingensis	GCA_002162375.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/162/375/GCF_002162375.1_ASM216237v1	GCF_002162375.1_ASM216237v1_protein.faa
+Marinobacter hydrocarbonoclasticus DSM 8798	GCA_000284615.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/284/615/GCF_000284615.1_ASM28461v1	GCF_000284615.1_ASM28461v1_protein.faa
+Alkanivorax borkumensis sk2	GCA_000009365.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/009/365/GCF_000009365.1_ASM936v1	GCF_000009365.1_ASM936v1_protein.faa
+Methylococcus capsulatus ATCC 33009	GCA_000008325.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/008/325/GCF_000008325.1_ASM832v1	GCF_000008325.1_ASM832v1_protein.faa
+Methylosinus trichosporium Ob3b	GCA_002752655.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/752/655/GCF_002752655.1_ASM275265v1	GCF_002752655.1_ASM275265v1_protein.faa
+Thauera aromatica K172	GCA_003030465.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/030/465/GCF_003030465.1_ASM303046v1	GCF_003030465.1_ASM303046v1_protein.faa
+Arthrobacter aurescens TC1	GCA_000014925.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/014/925/GCF_000014925.1_ASM1492v1	GCF_000014925.1_ASM1492v1_protein.faa
+Paraburkholderia xenovorans LB400	GCA_000756045.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/756/045/GCF_000756045.1_ASM75604v1	GCF_000756045.1_ASM75604v1_protein.faa
+Ralstonia eutropha H16	GCA_004798725.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/004/798/725/GCF_004798725.1_ASM479872v1	GCF_004798725.1_ASM479872v1_protein.faa
+Comamonas sp. CAH-2	GCA_009668305.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/668/305/GCF_009668305.1_ASM966830v1	GCF_009668305.1_ASM966830v1_protein.faa
+Chromohalobacter salexigens DSM 3043	GCA_000055785.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/055/785/GCF_000055785.1_ASM5578v1	GCF_000055785.1_ASM5578v1_protein.faa
+Herbaspirillum seropedicae DSM 6445	GCA_001040945.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/040/945/GCF_001040945.1_ASM104094v1	GCF_001040945.1_ASM104094v1_protein.faa
+Arthrobacter crystallopoietes ATCC 15481	GCA_002849715.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/849/715/GCF_002849715.1_ASM284971v1	GCF_002849715.1_ASM284971v1_protein.faa
+Pseudomonas aeruginosa PAO1	GCA_013001005.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/013/001/005/GCF_013001005.1_ASM1300100v1	GCF_013001005.1_ASM1300100v1_protein.faa
+Sphingomonas yanoikuae b1	GCA_000731935.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/731/935/GCF_000731935.1_ASM73193v1	GCF_000731935.1_ASM73193v1_protein.faa
+Micrococcus luteus ATCC 4698** in the model	GCA_900475555.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/475/555/GCF_900475555.1_44257_B01	GCF_900475555.1_44257_B01_protein.faa
+WSM 419 Sinorhizobium medicae	GCA_000017145.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/017/145/GCF_000017145.1_ASM1714v1	GCF_000017145.1_ASM1714v1_protein.faa
+Comamonas sp. CAH-2	GCA_009668305.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/668/305/GCF_009668305.1_ASM966830v1	GCF_009668305.1_ASM966830v1_protein.faa
+Herbaspirillum sp. CAH-3	GCA_009668275.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/668/275/GCF_009668275.1_ASM966827v1	GCF_009668275.1_ASM966827v1_protein.faa
+Colwellia psychrerythraea 34H 	GCA_000012325.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/012/325/GCF_000012325.1_ASM1232v1	GCF_000012325.1_ASM1232v1_protein.faa
+Geobacter bemidjiensis ATCC BAA-1014	GCA_000020725.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/020/725/GCF_000020725.1_ASM2072v1	GCF_000020725.1_ASM2072v1_protein.faa
+Geobacter sulfurreducens PCA	GCA_000007985.2	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/007/985/GCF_000007985.2_ASM798v2	GCF_000007985.2_ASM798v2_protein.faa
+Opitutaceae bacterium TAV2	GCA_000243495.3	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/243/495/GCF_000243495.2_ASM24349v3	GCF_000243495.2_ASM24349v3_protein.faa
+Planctomyces maris DSM 8797	GCA_009720545.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/720/545/GCF_009720545.1_ASM972054v1	GCF_009720545.1_ASM972054v1_protein.faa
+Chloroflexus aurantiacus J-10-fl	GCA_000018865.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/018/865/GCF_000018865.1_ASM1886v1	GCF_000018865.1_ASM1886v1_protein.faa
+Kocuria rhizophila DC2201	GCA_000010285.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/010/285/GCF_000010285.1_ASM1028v1	GCF_000010285.1_ASM1028v1_protein.faa
+Shewanella denitrificans OS217	GCA_000013765.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/013/765/GCF_000013765.1_ASM1376v1	GCF_000013765.1_ASM1376v1_protein.faa
+Methylobacterium vanbaalenii PYR-1	GCA_000015305.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/015/305/GCF_000015305.1_ASM1530v1	GCF_000015305.1_ASM1530v1_protein.faa
+DSM2366 Pedobacter heparinus	GCA_000023825.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/023/825/GCF_000023825.1_ASM2382v1	GCF_000023825.1_ASM2382v1_protein.faa
+Cellulosimicrobium cellulans Strain: PSBB019	GCA_002162335.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/162/335/GCF_002162335.1_ASM216233v1	GCF_002162335.1_ASM216233v1_protein.faa
+Cellvibrio sp. PSBB023	GCA_002007605.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/007/605/GCF_002007605.1_ASM200760v1	GCF_002007605.1_ASM200760v1_protein.faa
+Cellulomonas sp. PSBB021	GCA_002240455.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/240/455/GCF_002240455.1_ASM224045v1	GCF_002240455.1_ASM224045v1_protein.faa
+Microvirgula aerodenitrificans strain=BE2.4	GCA_003051865.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/051/865/GCF_003051865.1_ASM305186v1	GCF_003051865.1_ASM305186v1_protein.faa
+Azospirillum sp. TSH58	GCA_003115995.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/115/995/GCF_003115995.1_ASM311599v1	GCF_003115995.1_ASM311599v1_protein.faa
+Celeribacter baekdonensis strain=LH4	GCA_003047105.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/047/105/GCF_003047105.1_ASM304710v1	GCF_003047105.1_ASM304710v1_protein.faa
+Sedimenticola thiotaurini strain=SIP-G1	GCA_001007875.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/007/875/GCF_001007875.1_ASM100787v1	GCF_001007875.1_ASM100787v1_protein.faa
+Sulfuriferula sp. AH1 strain=AH1	GCA_002162035.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/162/035/GCF_002162035.1_ASM216203v1	GCF_002162035.1_ASM216203v1_protein.faa
+Streptomyces sp. 3211	GCA_002028385.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/028/385/GCF_002028385.1_ASM202838v1	GCF_002028385.1_ASM202838v1_protein.faa
+Achromobacter xylosoxidans strain=MN001	GCA_001051055.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/051/055/GCF_001051055.1_ASM105105v1	GCF_001051055.1_ASM105105v1_protein.faa
