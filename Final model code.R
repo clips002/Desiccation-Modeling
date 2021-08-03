@@ -1,6 +1,7 @@
 #Final Complete Model
 #Maia Clipsham
 #8/3/21
+#UMN Microbial Engineering
 
 # Load necessary packages
 install.packages("pacman") # run if pacman not already installed
