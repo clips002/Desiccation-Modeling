@@ -1,0 +1,28 @@
+Species	Number	URL		genomic DNA	Desiccation Status	order
+E. coli MG1655 	GCA_000005845.2	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/005/845/GCF_000005845.2_ASM584v2	GCF_000005845.2_ASM584v2	GCF_000005845.2_ASM584v2_genomic.fna	Sensitive	36
+Streptococcus mutans UA159	GCA_000007465.2	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/007/465/GCF_000007465.2_ASM746v2	GCF_000007465.2_ASM746v2	GCF_000007465.2_ASM746v2_genomic.fna	Assay	93
+Alkanivorax borkumensis sk2	GCA_000009365.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/009/365/GCF_000009365.1_ASM936v1	GCF_000009365.1_ASM936v1	GCF_000009365.1_ASM936v1_genomic.fna	Assay	70
+Bradyrhizobium USDA 110	GCA_000011365.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/011/365/GCF_000011365.1_ASM1136v1	GCF_000011365.1_ASM1136v1	GCF_000011365.1_ASM1136v1_genomic.fna	Assay	75
+Arthrobacter aurescens TC1	GCA_000014925.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/014/925/GCF_000014925.1_ASM1492v1	GCF_000014925.1_ASM1492v1	GCF_000014925.1_ASM1492v1_genomic.fna	Assay	71
+Pseudomonas putida F1 KA79	GCA_000016865.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/016/865/GCF_000016865.1_ASM1686v1	GCF_000016865.1_ASM1686v1	GCF_000016865.1_ASM1686v1_genomic.fna	Assay	89
+WSM 419 Sinorhizobium medicae	GCA_000017145.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/017/145/GCF_000017145.1_ASM1714v1	GCF_000017145.1_ASM1714v1	GCF_000017145.1_ASM1714v1_genomic.fna	Assay	94
+Methylobacterium extorquens AM1	GCA_000021845.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/021/845/GCF_000021845.1_ASM2184v1	GCF_000021845.1_ASM2184v1	GCF_000021845.1_ASM2184v1_genomic.fna	Assay	84
+Acidobacterium capsulatum DSM 11244 	GCA_000022565.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/022/565/GCF_000022565.1_ASM2256v1	GCF_000022565.1_ASM2256v1	GCF_000022565.1_ASM2256v1_genomic.fna	Assay	69
+DSM2366 Pedobacter heparinus	GCA_000023825.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/023/825/GCF_000023825.1_ASM2382v1	GCF_000023825.1_ASM2382v1	GCF_000023825.1_ASM2382v1_genomic.fna	Assay	77
+Shewanella oneidensis MR-1	GCA_000146165.2	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/146/165/GCF_000146165.2_ASM14616v2	GCF_000146165.2_ASM14616v2	GCF_000146165.2_ASM14616v2_genomic.fna	Sensitive	60
+Listeria grayi DSM 20601	GCA_000148995.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/148/995/GCF_000148995.1_ASM14899v1	GCF_000148995.1_ASM14899v1	GCF_000148995.1_ASM14899v1_genomic.fna	Assay	82
+Marinobacter hydrocarbonoclasticus DSM 8798	GCA_000284615.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/284/615/GCF_000284615.1_ASM28461v1	GCF_000284615.1_ASM28461v1	GCF_000284615.1_ASM28461v1_genomic.fna	Assay	83
+Sphingomonas yanoikuae b1	GCA_000731935.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/731/935/GCF_000731935.1_ASM73193v1	GCF_000731935.1_ASM73193v1	GCF_000731935.1_ASM73193v1_genomic.fna	Assay	92
+Paraburkholderia xenovorans LB400	GCA_000756045.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/756/045/GCF_000756045.1_ASM75604v1	GCF_000756045.1_ASM75604v1	GCF_000756045.1_ASM75604v1_genomic.fna	Assay	86
+Flavobacterium aquatile F36    DSM 1132 	GCA_002217235.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/217/235/GCF_002217235.1_ASM221723v1	GCF_002217235.1_ASM221723v1	GCF_002217235.1_ASM221723v1_genomic.fna	Assay	80
+E. coli DH5alpha	GCA_002848225.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/848/225/GCF_002848225.1_ASM284822v1	GCF_002848225.1_ASM284822v1	GCF_002848225.1_ASM284822v1_genomic.fna	Assay	78
+Arthrobacter crystallopoietes strain=DSM 20117	GCA_002849715.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/849/715/GCF_002849715.1_ASM284971v1	GCF_002849715.1_ASM284971v1	GCF_002849715.1_ASM284971v1_genomic.fna	Tolerant	32
+pseudomonas chlororaphis DSM 50083 ATCC 9446	GCA_003945765.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/945/765/GCF_003945765.1_ASM394576v1	GCF_003945765.1_ASM394576v1	GCF_003945765.1_ASM394576v1_genomic.fna	Assay	87
+Ralstonia eutropha H16	GCA_004798725.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/004/798/725/GCF_004798725.1_ASM479872v1	GCF_004798725.1_ASM479872v1	GCF_004798725.1_ASM479872v1_genomic.fna	Assay	90
+Deinococcus radiodurans strain=R1 dM1	GCA_008329785.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/008/329/785/GCF_008329785.1_ASM832978v1	GCF_008329785.1_ASM832978v1	GCF_008329785.1_ASM832978v1_genomic.fna	Tolerant	2
+Herbaspirillum sp. CAH-3	GCA_009668275.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/668/275/GCF_009668275.1_ASM966827v1	GCF_009668275.1_ASM966827v1	GCF_009668275.1_ASM966827v1_genomic.fna	Assay	81
+Comamonas sp. CAH-2	GCA_009668305.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/668/305/GCF_009668305.1_ASM966830v1	GCF_009668305.1_ASM966830v1	GCF_009668305.1_ASM966830v1_genomic.fna	Assay	76
+bacillus subtilis 168 WT vegetative cells	GCA_013009385.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/013/009/385/GCF_013009385.1_ASM1300938v1	GCF_013009385.1_ASM1300938v1	GCF_013009385.1_ASM1300938v1_genomic.fna	Assay	73
+Micrococcus luteus ATCC 4698	GCA_900475555.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/900/475/555/GCF_900475555.1_44257_B01	GCF_900475555.1_44257_B01	GCF_900475555.1_44257_B01_genomic.fna	Assay	85
+Pseudomonas mendocina	GCA_000626735.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/626/735/GCF_000626735.1_Pseudomonas_mendocina_AD6	Pseudomonas_Mendocina	GCF_000626735.1_Pseudomonas_mendocina_AD6_genomic.fna	Assay	88
+Rhodococcus B1	GCA_000454045.1	ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/454/045/GCF_000454045.1_ASM45404v1	Rhodococcus_B1	GCF_000454045.1_ASM45404v1_genomic.fna	Assay	91
